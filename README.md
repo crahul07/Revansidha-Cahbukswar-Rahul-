@@ -19,7 +19,7 @@ I am a dedicated learner currently pursuing my MCA and exploring the fields of D
 | Data & Databases   | SQL, MySQL, Power BI 📊                  |
 | Web & Development  | HTML, CSS, JavaScript , java, MVC (.net)    |
 | Desktop & Development  | java,.net ( Front-End  ) |
-| Currently Learning | AI/ML 🤖, Data Science, Data Engineering |
+| Currently Learning | AI/ML 🤖, Data Science |
 
 ---
 
