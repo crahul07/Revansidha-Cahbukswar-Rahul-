@@ -16,7 +16,7 @@ I am a dedicated learner currently pursuing my MCA and exploring the fields of D
 | Skill Area         | Tools & Technologies                     |
 | ------------------ | ---------------------------------------- |
 | Programming        | Python , Java , c,c#,.net                |
-| Data & Databases   | SQL, MySQL, Power BI 📊                  |
+| Data & Databases   | SQL, MySQL, Mongidb, Power BI 📊                  |
 | Web & Development  | HTML, CSS, JavaScript , java, MVC (.net)    |
 | Desktop & Development  | java,.net ( Front-End  ) |
 | Currently Learning | AI/ML 🤖, Data Science |
