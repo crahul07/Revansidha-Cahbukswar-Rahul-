@@ -43,7 +43,7 @@ Here are some projects I’m working on / planning to showcase:
 
 * 💼 **LinkedIn:** [Revansidha Chabukswar](https://www.linkedin.com/in/revansidha-chabukswar-731a422a6/)
 * 📧 **Email:** *(crevansidha.p@gmail.com)*
-* 🐙 **GitHub:** `@crahul07`
+* 🐙 **GitHub:** `@revansidhachabukswar`
 
 ---
 
